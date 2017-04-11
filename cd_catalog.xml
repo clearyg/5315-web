@@ -1,44 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CATALOG>
 	<CD>
-		<TITLE>Empire Burlesque</TITLE>
-		<ARTIST>Bob Dylan</ARTIST>
+		<TITLE>Big Data Analytics</TITLE>
+		<ARTIST>Gavin Cleary</ARTIST>
 		<COUNTRY>USA</COUNTRY>
 		<COMPANY>Columbia</COMPANY>
 		<PRICE>10.90</PRICE>
-		<YEAR>1985</YEAR>
+		<YEAR>2017</YEAR>
 	</CD>
 	<CD>
-		<TITLE>Hide your heart</TITLE>
-		<ARTIST>Bonnie Tyler</ARTIST>
-		<COUNTRY>UK</COUNTRY>
+		<TITLE>Hadoop</TITLE>
+		<ARTIST>Apache</ARTIST>
+		<COUNTRY>USA</COUNTRY>
 		<COMPANY>CBS Records</COMPANY>
 		<PRICE>9.90</PRICE>
-		<YEAR>1988</YEAR>
+		<YEAR>2017</YEAR>
 	</CD>
 	<CD>
-		<TITLE>Greatest Hits</TITLE>
-		<ARTIST>Dolly Parton</ARTIST>
+		<TITLE>SPARK</TITLE>
+		<ARTIST>Apache</ARTIST>
 		<COUNTRY>USA</COUNTRY>
 		<COMPANY>RCA</COMPANY>
 		<PRICE>9.90</PRICE>
-		<YEAR>1982</YEAR>
+		<YEAR>2017</YEAR>
 	</CD>
 	<CD>
-		<TITLE>Still got the blues</TITLE>
-		<ARTIST>Gary Moore</ARTIST>
-		<COUNTRY>UK</COUNTRY>
+		<TITLE>STORM</TITLE>
+		<ARTIST>Apache</ARTIST>
+		<COUNTRY>USA</COUNTRY>
 		<COMPANY>Virgin records</COMPANY>
 		<PRICE>10.20</PRICE>
-		<YEAR>1990</YEAR>
+		<YEAR>2017</YEAR>
 	</CD>
 	<CD>
-		<TITLE>Eros</TITLE>
-		<ARTIST>Eros Ramazzotti</ARTIST>
+		<TITLE>Palantir</TITLE>
+		<ARTIST>Peter Thiel</ARTIST>
 		<COUNTRY>EU</COUNTRY>
 		<COMPANY>BMG</COMPANY>
 		<PRICE>9.90</PRICE>
-		<YEAR>1997</YEAR>
+		<YEAR>2003</YEAR>
 	</CD>
 	<CD>
 		<TITLE>One night only</TITLE>
